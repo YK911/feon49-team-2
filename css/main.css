@@ -211,3 +211,27 @@ p {
 .hero-img {
   margin-left: auto;
 }
+/* design */
+.design-container {
+  display: flex;
+}
+.design-img {
+  margin-left: -175px;
+}
+.design-wrapper {
+  margin-left: 150px;
+  width: 558px;
+  flex-shrink: 0;
+}
+.design-item {
+  margin-bottom: 40px;
+}
+.design-item:last-child {
+  margin-bottom: 0;
+}
+.design-title {
+  margin-bottom: 50px;
+}
+.design-subtitle {
+  margin-bottom: 20px;
+}
